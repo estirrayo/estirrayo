@@ -1,5 +1,5 @@
 # Repositorio de Esti 
-![Imagen de Portada](RECURSOS/9f5476da56ce0af503fbe6dbf1b8d205.jpg) 
+![Imagen de Portada](RECURSOS/images.jpg) 
 
 ## Descripción 
 Ejemplo de como trabajar con GITHUB. 
