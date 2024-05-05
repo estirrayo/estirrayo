@@ -14,8 +14,8 @@ Después de verificar que todo está bien, se ha realizado un pull request y fin
 - Fetch
 - Merge 
 
-## Uso 
-Su finalidad consiste en practicar el uso del Github de manera remota y local, orientada al mundo laboral.  
+## Finalidad 
+Practicar con Github de manera remota y local orientada al mundo laboral.  
 
 ## Licencia 
 Licencia bajo la cual se distribuye el proyecto.
