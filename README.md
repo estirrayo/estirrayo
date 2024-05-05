@@ -18,7 +18,7 @@ Después de verificar que todo está bien, se ha realizado un pull request y fin
 Practicar con Github de manera remota y local orientada al mundo laboral.  
 
 ## Enlace 
-[RetoGit]([url](https://github.com/estirrayo/retogit))
+[RetoGit](https://github.com/estirrayo/retogit)
 
 ## Licencia 
 Licencia bajo la cual se distribuye el proyecto.
